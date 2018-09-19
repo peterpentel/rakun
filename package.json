@@ -1,0 +1,24 @@
+{
+  "name": "rakun",
+  "version": "1.0.0",
+  "description": "rakun: git and  node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterpentel/rakun.git"
+  },
+  "keywords": [
+    "git",
+    "nodejs",
+    "rakun"
+  ],
+  "author": "PeterPentel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterpentel/rakun/issues"
+  },
+  "homepage": "https://github.com/peterpentel/rakun#readme"
+}
